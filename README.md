@@ -1,6 +1,6 @@
 ### Henrique Umeda - [LIMS/ELN Consultant] 👋
 
-## I am a production engineer who became a LIMS / ELN consultant and loves to solve problems and errors to make a good impact on the business and improve the use of applications for users.
+## I am a production engineer turned LIMS / ELN consultant who loves to solve problems and errors to make a good impact on the business and improve the use of applications for users.
 
 - 💻 I’m currently working as a LabWare LIMS/ELN Consultant
 - 📊 I’m studying Python and Data Science as a hobby
