@@ -1,9 +1,9 @@
-### Henrique Umeda - [LIMS/ELN Consultant] 👋
+### Henrique Umeda 👋
 
-## I am a production engineer turned LIMS / ELN consultant who loves to solve problems and errors to make a good impact on the business and improve the use of applications for users.
+## I am a production engineer who loves to solve problems and errors to make a good impact on the business and improve the use of applications for users. 
 
-- 💻 I’m currently working as a LabWare LIMS/ELN Consultant
-- 📊 I’m studying Python and Data Science as a hobby
+- 💻 I’m currently looking for an opportunity as a Data Scientist
+- 📊 I’m a Data Science student
 - 📈 I’m constantly learning and Improving my skills 🤣
 
 ### Connect with me on Linkedin:
@@ -19,6 +19,8 @@
 <img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
 <img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
+
+[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 
 <img align="left" alt="GitHub" width="26px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" />
 
