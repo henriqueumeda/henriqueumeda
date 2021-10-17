@@ -2,9 +2,10 @@
 
 ## I am a production engineer who loves to solve problems and errors to make a good impact on the business and improve the use of applications for users. 
 
-- 💻 I’m currently looking for an opportunity as a Data Scientist
-- 📊 I’m a Data Science student
-- 📈 I’m constantly learning and Improving my skills 🤣
+- 📊 I’m currently looking for an opportunity as a Data Scientist
+- 📖 I’m a Data Science student
+- 📈 I’m constantly learning and Improving my skills
+- 💻 I’m currently learning Data Science and Machine Learning through hands-on projects and courses
 
 ### Connect with me on Linkedin:
 
